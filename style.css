@@ -15,12 +15,11 @@ header, nav, section, aside, footer {
     width: 100%;
 }
 
-header {
-    margin-bottom: 10px;
+header, nav {
+    margin-top: 10px;
 }
 
 nav {
-    margin-top: 10px;
     margin-bottom: 20px;
 }
 
